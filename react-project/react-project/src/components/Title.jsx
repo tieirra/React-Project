@@ -1,7 +1,10 @@
-Title (){
-return <h1> My todo List</h1>
+function Title () {
+return (
+<h1> My Todo List</h1>
+
+);
 
 }
 
 
-export default title  
+export default Title; 
