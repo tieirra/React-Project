@@ -1,16 +1,12 @@
 
 
 .todo{
-    width: 30%;
+    width: calc(100% / 3);
     border: 1px solid black;
     padding: 16px;
 
 }
 
-.job{
-    width: 30%;
-    border: 1px solid black;
-    padding: 16px 
-}
+
 
 

@@ -8,9 +8,11 @@ function App() {
   return (
     <div className="App">
      <Title/>
+     <div className="todo__wrapper">
      <Todo/> 
      <Job/> 
      <Todo/> 
+     </div>
       
     </div>
   );
